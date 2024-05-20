@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @nikhiltadi
-- 👀 I’m interested in .
+- 👀 3d printing
 - 🌱 masters in industrial engineering
 - 💞️ projects 
 - 📫 tadinikhilrajanaidu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 nikhiltadi23/nikhiltadi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
